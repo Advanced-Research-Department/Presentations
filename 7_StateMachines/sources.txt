@@ -1,0 +1,7 @@
+https://habr.com/ru/post/160105/
+http://cpp-reference.ru/patterns/behavioral-patterns/state/
+https://tproger.ru/translations/finite-state-machines-theory-and-implementation/
+https://medium.com/datadriveninvestor/state-machine-design-pattern-part-2-state-pattern-vs-state-machine-3010dd0fcf28
+https://albertodebortoli.com/2018/12/16/the-easiest-state-machine-in-swift/
+http://www.splinter.com.au/2019/04/10/swift-state-machines-with-enums/
+https://www.swiftbysundell.com/articles/modelling-state-in-swift/
