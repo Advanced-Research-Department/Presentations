@@ -1,0 +1,207 @@
+{
+  "total": 3,
+  "limit": 4,
+  "offset": 0,
+  "fixtures": [
+    {
+      "id": 526,
+      "sport": "football",
+      "type": "fixture",
+      "partnerId": 3000221,
+      "featured": true,
+      "name": "Everton v Aston Villa",
+      "description": "Follow the match with our live audio commentary.",
+      "thumbnail": "https://assets.streamplay.streamamg.com/football/3000221/fixture/526/assets/1920_thumbnail.png",
+      "thumbnailFlavors": {
+        "250": "https://assets.streamplay.streamamg.com/football/3000221/fixture/526/assets/250_thumbnail.png",
+        "640": "https://assets.streamplay.streamamg.com/football/3000221/fixture/526/assets/640_thumbnail.png",
+        "1024": "https://assets.streamplay.streamamg.com/football/3000221/fixture/526/assets/1024_thumbnail.png",
+        "1920": "https://assets.streamplay.streamamg.com/football/3000221/fixture/526/assets/1920_thumbnail.png",
+        "source": "https://assets.streamplay.streamamg.com/football/3000221/fixture/526/assets/source_thumbnail.jpg"
+      },
+      "startDate": "2020-05-02T15:00:00.000Z",
+      "endDate": "2020-05-02T17:00:00.000Z",
+      "createdAt": "2019-11-04T10:10:01.000Z",
+      "updatedAt": "2020-04-07T10:07:23.000Z",
+      "externalIds": {
+        "optaFixtureId": null,
+        "paFixtureId": null,
+        "sportsradarFixtureId": null
+      },
+      "teamType": null,
+      "season": {
+        "id": 4,
+        "name": "2019-2020"
+      },
+      "competition": {
+        "id": 1,
+        "name": "English Premier League"
+      },
+      "homeTeam": {
+        "logo": "https://assets.streamplay.streamamg.com/football/attributes/Team/10/300_logo.png",
+        "id": 10,
+        "name": "Everton",
+        "logoFlavors": {
+          "50": "https://assets.streamplay.streamamg.com/football/attributes/Team/10/50_logo.png",
+          "100": "https://assets.streamplay.streamamg.com/football/attributes/Team/10/100_logo.png",
+          "200": "https://assets.streamplay.streamamg.com/football/attributes/Team/10/200_logo.png",
+          "300": "https://assets.streamplay.streamamg.com/football/attributes/Team/10/300_logo.png",
+          "source": "https://assets.streamplay.streamamg.com/football/attributes/Team/10/source_logo.png"
+        }
+      },
+      "awayTeam": {
+        "logo": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/300_logo.png",
+        "id": 5,
+        "name": "Aston Villa",
+        "logoFlavors": {
+          "50": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/50_logo.png",
+          "100": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/100_logo.png",
+          "200": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/200_logo.png",
+          "300": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/300_logo.png",
+          "source": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/source_logo.png"
+        }
+      },
+      "stadium": {
+        "id": 493,
+        "name": "Goodison Park"
+      },
+      "mediaData": [
+        {
+          "entryId": null,
+          "mediaType": "audio",
+          "drm": false,
+          "isLiveUrl": null,
+          "thumbnailUrl": null
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "sport": "football",
+      "type": "fixture",
+      "partnerId": 3000221,
+      "featured": false,
+      "name": "Aston Villa v Arsenal",
+      "description": "",
+      "thumbnail": "",
+      "thumbnailFlavors": {
+        "250": "",
+        "640": "",
+        "1024": "",
+        "1920": "",
+        "source": ""
+      },
+      "startDate": "2020-05-09T15:00:00.000Z",
+      "endDate": "2020-05-09T17:00:00.000Z",
+      "createdAt": "2019-11-04T10:11:10.000Z",
+      "updatedAt": "2019-11-04T10:11:28.000Z",
+      "externalIds": {
+        "optaFixtureId": null,
+        "paFixtureId": null,
+        "sportsradarFixtureId": null
+      },
+      "teamType": null,
+      "season": {
+        "id": 4,
+        "name": "2019-2020"
+      },
+      "competition": {
+        "id": 1,
+        "name": "English Premier League"
+      },
+      "homeTeam": {
+        "logo": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/300_logo.png",
+        "id": 5,
+        "name": "Aston Villa",
+        "logoFlavors": {
+          "50": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/50_logo.png",
+          "100": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/100_logo.png",
+          "200": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/200_logo.png",
+          "300": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/300_logo.png",
+          "source": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/source_logo.png"
+        }
+      },
+      "awayTeam": {
+        "logo": "https://assets.streamplay.streamamg.com/football/attributes/Team/4/300_logo.png",
+        "id": 4,
+        "name": "Arsenal",
+        "logoFlavors": {
+          "50": "https://assets.streamplay.streamamg.com/football/attributes/Team/4/50_logo.png",
+          "100": "https://assets.streamplay.streamamg.com/football/attributes/Team/4/100_logo.png",
+          "200": "https://assets.streamplay.streamamg.com/football/attributes/Team/4/200_logo.png",
+          "300": "https://assets.streamplay.streamamg.com/football/attributes/Team/4/300_logo.png",
+          "source": "https://assets.streamplay.streamamg.com/football/attributes/Team/4/source_logo.png"
+        }
+      },
+      "stadium": {
+        "id": 1270,
+        "name": "Villa Park"
+      },
+      "mediaData": []
+    },
+    {
+      "id": 529,
+      "sport": "football",
+      "type": "fixture",
+      "partnerId": 3000221,
+      "featured": false,
+      "name": "West Ham United v Aston Villa",
+      "description": "",
+      "thumbnail": "",
+      "thumbnailFlavors": {
+        "250": "",
+        "640": "",
+        "1024": "",
+        "1920": "",
+        "source": ""
+      },
+      "startDate": "2020-05-17T15:00:00.000Z",
+      "endDate": "2020-05-17T17:00:00.000Z",
+      "createdAt": "2019-11-04T10:12:42.000Z",
+      "updatedAt": "2019-11-04T10:12:42.000Z",
+      "externalIds": {
+        "optaFixtureId": null,
+        "paFixtureId": null,
+        "sportsradarFixtureId": null
+      },
+      "teamType": null,
+      "season": {
+        "id": 4,
+        "name": "2019-2020"
+      },
+      "competition": {
+        "id": 1,
+        "name": "English Premier League"
+      },
+      "homeTeam": {
+        "logo": "https://assets.streamplay.streamamg.com/football/attributes/Team/20/300_logo.png",
+        "id": 20,
+        "name": "West Ham United",
+        "logoFlavors": {
+          "50": "https://assets.streamplay.streamamg.com/football/attributes/Team/20/50_logo.png",
+          "100": "https://assets.streamplay.streamamg.com/football/attributes/Team/20/100_logo.png",
+          "200": "https://assets.streamplay.streamamg.com/football/attributes/Team/20/200_logo.png",
+          "300": "https://assets.streamplay.streamamg.com/football/attributes/Team/20/300_logo.png",
+          "source": "https://assets.streamplay.streamamg.com/football/attributes/Team/20/source_logo.png"
+        }
+      },
+      "awayTeam": {
+        "logo": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/300_logo.png",
+        "id": 5,
+        "name": "Aston Villa",
+        "logoFlavors": {
+          "50": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/50_logo.png",
+          "100": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/100_logo.png",
+          "200": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/200_logo.png",
+          "300": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/300_logo.png",
+          "source": "https://assets.streamplay.streamamg.com/football/attributes/Team/5/source_logo.png"
+        }
+      },
+      "stadium": {
+        "id": 640,
+        "name": "London Stadium"
+      },
+      "mediaData": []
+    }
+  ]
+}
